@@ -1,0 +1,30 @@
+<!-- 头部框架开始 -->
+<div class="header">
+	<div class="w1100">
+		<!-- 网站logo开始 -->
+		<h1 class="logo fl" >
+	
+<<<<<<< HEAD
+			<a href="default.html">中策博客</a>
+=======
+			<a >中策博客</a>
+>>>>>>> 49db91c... 第三次提交
+		</h1>
+		<!-- 网站logo结束 -->
+		<!-- 网站导航开始 -->
+		<ul class="navigation fr">
+			<li>
+<<<<<<< HEAD
+				<a class="active" href="article.html">首页</a>
+=======
+				<a class="active" >首页</a>
+>>>>>>> 49db91c... 第三次提交
+			</li>
+			<li>
+				<a href="../admin/login">登录</a>
+			</li>
+		</ul>
+		<!-- 网站导航结束 -->
+	</div>
+</div>
+<!-- 头部框架结束 -->
